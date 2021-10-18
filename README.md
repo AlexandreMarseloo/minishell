@@ -1,2 +1,1 @@
 # minishell
-my own shell
